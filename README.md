@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native, Node Js, Vue Js**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JS**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, MaterialUI, Ant Design, JS, ReactJS, VueJS etc...**
 
 - 📫 How to reach me **jahirulislamn@gmail.com**
 
