@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Johirul Islam Nishat</h1>
+<h1 align="center">Hi 👋, I'm Muslima Munni</h1>
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh.</h3>
 
 <img style="width:25%" src="https://i.ibb.co/hVmD7FP/site1.jpg" alt="pexels-iconcom-226579" border="0">
