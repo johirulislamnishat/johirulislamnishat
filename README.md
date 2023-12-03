@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muslima Munni</h1>
+<h1 align="center">Hi 👋, I'm Johirul Islam Nishat</h1>
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh.</h3>
 
 <img style="width:25%" src="https://i.ibb.co/hVmD7FP/site1.jpg" alt="pexels-iconcom-226579" border="0">
@@ -12,7 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/johirulislamnishat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johirulislamnishat/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/16843168/johirul-islam-nishat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/16843168/johirul-islam-nishat" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/users/16843168/johirul-islam-nishat" target="blank"
+><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/16843168/johirul-islam-nishat" height="30" width="40" /></a>
 <a href="https://fb.com/dr.johirulislamn.personal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dr.johirulislamn.personal/" height="30" width="40" /></a>
 </p>
 
